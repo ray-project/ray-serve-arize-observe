@@ -8,7 +8,7 @@
 <a href="https://discuss.ray.io/"><img src="https://img.shields.io/badge/Discuss-Ask%20Questions-blue" alt="discuss"></a>
 <a href="https://twitter.com/raydistributed"><img src="https://img.shields.io/twitter/follow/raydistributed?label=Follow" alt="twitter"></a>
 
-Welcome to the Multilingual Chat with Ray Serve repo!
+Welcome to the Multilingual Chat with Ray Serve!
 
 ## Tutorial content
 
@@ -16,7 +16,7 @@ In this tutorial, we will explore how to author real-time inference pipelines in
 
 We will build multilingual chat. System will consist of deep learning models and business logic implemented with Ray Serve and the deployment graph API.
 
-<img src="https://technical-training-assets.s3.us-west-2.amazonaws.com/Ray_Serve/deployment_graph_complex.png" width="80%" loading="lazy">
+<img src="https://technical-training-assets.s3.us-west-2.amazonaws.com/Ray_Serve/deployment_graph_complex.png" width="90%" loading="lazy">
 
 ## Connect with the Ray community
 
